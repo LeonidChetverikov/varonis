@@ -5,8 +5,6 @@ function Create-User {
     param (
         [Parameter(Mandatory=$true, Position=0)]
         [string] $UserNumber,
-        [Parameter(Mandatory=$true, Position=1)]
-        [string] $azureDomain,
         [Parameter(Mandatory=$false, Position=2)]
         [string] $groupObjectID
     )
