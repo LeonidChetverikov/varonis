@@ -1,5 +1,5 @@
 Function configure to run in Leonid CHetverikov subscription
-Depend on keyvault name it will change secret output from1 to 3.
+Depend on keyvault name it will change secret output from supervalue1 to supervalue3.
 
 Hot to get secret?
 query string is:
