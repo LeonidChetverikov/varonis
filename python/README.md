@@ -7,5 +7,7 @@ query string is:
 https://keyvaul-trigger.azurewebsites.net/api/<httptrigger2>?KeyVaultName=<kvName>
 ```
 httptrigger2 is function app name 
+
+
 kvName - name of predefined keyvaults (VaronisAssignmentKv1, VaronisAssignmentKv2, VaronisAssignmentKv3)
 
